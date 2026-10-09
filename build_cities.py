@@ -729,10 +729,6 @@ window.EG_SITE = {{
 
 {FOOTER}
 
-<div class="sticky-bar">
-  <a class="btn btn-outline" data-eg-tel href="#">Call Now</a>
-  <a class="btn btn-green" href="#quote-widget">Get Quote</a>
-</div>
 
 <script>
 {SITE_JS}
